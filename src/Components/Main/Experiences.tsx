@@ -21,8 +21,9 @@ const datas: ExperienceData[] = [
                 start: "November 2022",
                 end: "January 2023",
                 desc: [
-                    "Project to create a profile website and a CMS to customized it’s content for Sinar Karya Nusa.",
-                    "Leveraged knowledge in Laravel, PHP, MySql, Tailwind CSS, HTML/CSS, and Git."
+                    "Developed Trace Study statistical dashboard of alumnus of Universitas Pendidikan Indonesia",
+                    "Developed monolithic organization membership application with Laravel and MySQL",
+                    "Leveraged knowledge in Laravel, PHP, MySQL, Tailwind CSS, HTML/CSS, and Git."
                 ]
             }
         ]
