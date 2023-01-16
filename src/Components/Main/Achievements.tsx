@@ -11,7 +11,7 @@ const datas: AchievementsData[] = [
     {
         name: "Second Winner of Kanaji Competition",
         date: "2017",
-        desc: "Japanese Competition. At FESBUKAN 6, UNPAD"
+        desc: "At Fesbukan 6, Pusat Studi Bahasa Jepang, Fakultas Ilmu Budaya Universitas Padjadjaran"
     },
 ];
 
