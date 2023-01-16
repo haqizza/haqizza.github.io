@@ -8,7 +8,7 @@ import Languages from './Languages';
 const Sidebar = (props: any) => {
 
     return (
-        <div className={ "card text-white " + props.className}>
+        <div className={ "card text-white p-6 " + props.className}>
             <Profile />
             <Skills />
             <Languages />
