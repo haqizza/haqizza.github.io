@@ -14,10 +14,10 @@ interface ExperienceData {
 
 const datas: ExperienceData[] = [
     {
-        name: "Direktorat Teknologi dan Informasi Universitas Pendidikan Indonesia",
+        name: "Direktorat Sistem dan Teknologi Informasi Universitas Pendidikan Indonesia",
         positions: [
             {
-                name: "Web Developer",
+                name: "Full-Stack Web Developer",
                 start: "November 2022",
                 end: "January 2023",
                 desc: [
